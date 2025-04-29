@@ -1,5 +1,5 @@
 # NBA-Game-Outcome-Prediction-using-Machine-Learning
-This project is the final submission for CSE 802: Pattern Recognition, focused on building and evaluating machine learning models to predict the outcome of NBA games (home team win or loss) using historical and contextual game data.
+This project focuses on building and evaluating machine learning models to predict the outcome of NBA games (home team win or loss) using historical and contextual game data.
 
 🔍 Objective
 Develop a complete machine learning pipeline that:
